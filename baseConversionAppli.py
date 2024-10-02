@@ -1,4 +1,23 @@
-import baseConversion
+print("""            \t\t===================================
+                     base conversion calculator
+                    ====================================
+                      1.Decimal---binary
+                      2.decimal---octal
+                      3.decimal---hexa
+                    ==========================
+                      4.binary---decimal
+                      5.binary---octal
+                      6.binary---hexa
+                    ==========================
+                      7.octal----decimal
+                      8.octal----binary
+                      9.octal----hexa
+                    ===========================
+                      10.hexa---decimal
+                      11.hexa---binary
+                      12.hexa---octal
+                    ===========================
+                      13.Exit                   """)
 while True:
     ch=input("enter your choice:")
     if ch.isdigit():
