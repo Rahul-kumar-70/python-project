@@ -1,0 +1,3 @@
+#  Write a Python program to generate groups of five consecutive numbers in a list.
+lst=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+for i in lst:
